@@ -1,0 +1,30 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Cache files
+__pycache__/
+*.log
+
+# Virtual environment
+random-ideas-venv/
+.venv/
+env/
+ENV/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Python-specific
+.Python
+*.egg-info/
+*.egg
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS-specific
+.DS_Store
